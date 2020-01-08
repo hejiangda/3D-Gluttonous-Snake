@@ -11,3 +11,4 @@ Use OpenGL build a 3D Gluttonous Snake.
 - 用sqlite实现计分功能
 - 用opencv实现手势控制
 - 手柄控制
+- 以头的姿态控制
